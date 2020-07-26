@@ -33,6 +33,7 @@ attr_accessor :name, :artist, :genre
       else 
         genres_count[genre] = 1 
       end
+    end
       genres_count
         
         
